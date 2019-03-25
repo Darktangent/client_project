@@ -82,13 +82,13 @@ color:#EA6F6;
 .bottom-cloud{
 	position: absolute;
 	left:250px;
-	bottom:300px;
+	bottom:200px;
 }
 
 .top-cloud{
 	position:absolute;
-	right:300px;
-	top:40px;
+	right:250px;
+	top:200px;
 	
 }
 .skill-row{
@@ -143,6 +143,8 @@ color:#EA6F6;
 }
 .copyright{
 	color:#45b29a;
+	font-size:0.75rem;
+	padding:20px 0;
 }
 
 
